@@ -1,5 +1,5 @@
 # auto-spark-schema-generation
-This code is developed to generate Spark Schema automatically for a given json file/data of any structure.
+This code is developed to automatically generate a Spark Schema for a given JSON file or data of any structure.
 
 Requirement : 
     Develop a Generic Function which can extract columns and its datatype from any dynamic json and create Schema for the same.
